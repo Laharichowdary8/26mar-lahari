@@ -10,6 +10,7 @@ printf("B-tech branc in test1");
 break;
 case 2:
 printf("aiml branch");
+printf("aiml branch in test2");
 break;
 case 3:
 printf("ECE branch");
