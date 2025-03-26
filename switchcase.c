@@ -6,6 +6,7 @@ scanf("%d",&branch);
 switch(branch){
 case 1:
 printf("B-tech branch");
+printf("B-tech branc in test1");
 break;
 case 2:
 printf("aiml branch");
