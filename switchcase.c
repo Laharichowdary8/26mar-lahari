@@ -14,8 +14,10 @@ printf("aiml branch in test2");
 break;
 case 3:
 printf("ECE branch");
+printf("ECE branchin test3");
 break;
 case 4:
+printf("mec branch");
 printf("mec branch");
 break;
 deafult :
