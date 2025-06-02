@@ -22,4 +22,4 @@ printf("mec branch");
 break;
 deafult :
 printf("invalid number");
-
+hello this is lahari im commiting in  bharath code
